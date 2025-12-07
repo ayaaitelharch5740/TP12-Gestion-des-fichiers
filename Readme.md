@@ -8,7 +8,7 @@ Voici les résultats d’exécution :
 
 Exercice 1 :
 
-![Exécution 1](Ex1.PNG)
+![Exécution 1](Ex2.PNG)
 
 Exercice 2:
 
