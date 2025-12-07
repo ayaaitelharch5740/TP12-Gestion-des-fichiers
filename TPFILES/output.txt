@@ -1,0 +1,4 @@
+Bonjour
+Ceci est un test
+Java File IO
+Nombre total de lignes copiées : 3
